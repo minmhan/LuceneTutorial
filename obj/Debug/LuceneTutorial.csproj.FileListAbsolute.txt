@@ -1,0 +1,9 @@
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\LuceneTutorial.exe.config
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\LuceneTutorial.exe
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\LuceneTutorial.pdb
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\Lucene.Net.dll
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\Lucene.Net.pdb
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\bin\Debug\Lucene.Net.xml
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\obj\Debug\LuceneTutorial.exe
+D:\PROJECTS\LuceneTutorial\LuceneTutorial\obj\Debug\LuceneTutorial.pdb
